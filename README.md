@@ -1,2 +1,4 @@
 # hello-world
-Learning about GitHub
+
+
+My name is Amy and I'm learning about GitHub
